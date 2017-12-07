@@ -14,5 +14,5 @@ There is no intent to turn this into an I-D.
 
     ------>
     ClientHello
-               <------
-               ServerHello
+                                            <------
+                                        ServerHello
