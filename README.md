@@ -16,7 +16,8 @@ There is no intent to turn this into an I-D.
     + supported_versions
     + key_share
     + supported_groups
-    + signature_algorithms    -------->
+    + signature_algorithms
+    + server_name             -------->
                                                     ServerHello
                                                     + key_share
                                                    {Certificate}
